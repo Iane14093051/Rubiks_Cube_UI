@@ -25,7 +25,7 @@ This code implements the following:
 ## Usage
 
 ```bash
-$ python UI.py
+$ python cube.py
 ```
 
 ## Demo
