@@ -30,4 +30,5 @@ $ python UI.py
 
 ## Demo
 
-  
+  ![demo_pic](https://github.com/user-attachments/assets/39c5cfb9-a00c-4d70-9746-b1117fa10ce1)
+
